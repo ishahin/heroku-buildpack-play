@@ -10,6 +10,8 @@ Usage
 
 Example usage:
 
+    Check out 
+
     $ ls
     app	conf	lib	public	test
 
